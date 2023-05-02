@@ -1,0 +1,12 @@
+{
+  "name": "entendendo-streams",
+  "version": "1.0.0",
+  "description": "As streams no Node talvez seja o motivo pela popularidade dele. O Node trouxe simplicidade e performance na forma de lidar com as streams No Node, TODA PORTA de entrada e saída é automaticamente uma Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
